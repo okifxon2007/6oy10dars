@@ -1,0 +1,72 @@
+{
+    "en": {
+      "translation": {
+        "home": "Home",
+        "categories": "Categories",
+        "sales": "Sales",
+        "faq": "FAQ",
+        "about": "About",
+        "contact": "Contact",
+        "Let your groceries come to you":"Let your groceries come to you",
+        "Get fresh groceries online without stepping out to make delicious food with the freshest ingredients":"Get fresh groceries online without stepping out to make delicious food with the freshest ingredients",
+        "Fresh Vegetables":"Fresh Vegetables",
+        "100% Guarantee":"100% Guarantee",
+        "Cash on Delivery":"Cash on Delivery",
+        "Fast Delivery":"Fast Delivery",
+        "Dairy Products":"Dairy Products",
+        "Vegetables & Fruits":"Vegetables & Fruits",
+        "Spices & Seasonings":"Spices & Seasonings",
+        "Honey":"Honey",
+        "flour":"flour",
+        "Fresh Spinach":"Fresh Spinach"
+      }
+    },
+    "uz": {
+      "translation": {
+        "home": "sosiy",
+        "categories": "Kategoriyalar",
+        "sales": "Sotuvlar",
+        "faq": "FAQ",
+        "about": "Haqida",
+        "contact": "Aloqa",
+        "Let your groceries come to you":"Oziq-ovqatlaringizni qoldiring senga kel",
+        "Get fresh groceries online without stepping out to make delicious food with the freshest ingredients":"Tashqariga chiqmasdan yangi oziq-ovqat mahsulotlarini onlayn xarid qiling eng yangi ingredientlardan mazali taom tayyorlang",
+        "Fresh Vegetables":"Yangi sabzavotlar",
+        "100% Guarantee":"100% kafolat",
+        "Cash on Delivery":"Etkazib berishda naqd pul",
+        "Fast Delivery":"Tez yetkazib berish",
+        "Dairy Products":"Sutli mahsulotlar",
+        "Vegetables & Fruits":"Sabzavotlar va mevalar",
+        "Spices & Seasonings":"Ziravorlar va ziravorlar",
+        "Honey":"asal",
+        "flour":"un",
+        "Fresh Spinach":"Yangi ismaloq"
+        
+      }
+    },
+    "ru": {
+      "translation": {
+        "home": "Главная",
+        "categories": "Категории",
+        "sales": "Продажи",
+        "faq": "FAQ",
+        "about": "О нас",
+        "contact": "Контакт",
+        "Let your groceries come to you" : "Пусть ваши продукты иду к тебе",
+        "Get fresh groceries online without stepping out to make delicious food with the freshest ingredients":"Приобретайте свежие продукты онлайн, не выходя из дома.готовьте вкусную еду из самых свежих ингредиентов",
+        "Fresh Vegetables":"Свежие овощи",
+        "100% Guarantee":"100% гарантия",
+        "Cash on Delivery":"Оплата при доставке",
+        "Fast Delivery":"Быстрая доставка",
+        "Dairy Products":"молочные продукты",
+        "Vegetables & Fruits":"Овощи и фрукты",
+        "Spices & Seasonings":"«Специи и приправы»",
+        "Honey":"Милая милая",
+        "flour":"Мука", 
+        "Fresh Spinach":"«Свежий шпинат»"       
+      }
+
+
+    }
+  }
+  

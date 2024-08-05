@@ -1,0 +1,46 @@
+.header h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #F38160;
+}
+.header span{
+    color: #F0B70D;
+}
+.header{
+    display: flex;
+}
+.header ul{
+    margin-left: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(116, 115, 115);
+    display: flex;
+    gap: 60px;
+    list-style-type: none;
+    margin-top: 35px;
+    cursor: pointer;
+    transition: 0.5s all ease;
+}
+.header li:hover{
+    transition: 0.5s all ease;
+    color: #F38160;
+}
+.header select{
+    width: 100px;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 2px solid #F38160;
+    color: #F38160;
+    border-radius: 5px;
+}
+.header button{
+    width: 80px;
+    height: 30px;
+    margin-top: 30px;
+    color: white;
+    background-color: #F38160;
+    border: 1px solid #F38160;
+    border-radius: 3px;
+}
+.dark{
+    display: none;
+}

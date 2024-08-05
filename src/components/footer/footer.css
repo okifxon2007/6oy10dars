@@ -1,0 +1,9 @@
+.fifecard{
+    display: flex;
+}
+.caard{
+    margin-top: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 280px;
+    height: 220px;
+}
