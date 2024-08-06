@@ -1,11 +1,13 @@
+
 import React from 'react';
 import '../main/index.css';
 import image1 from '../img/img1.svg';
 import karamimg from '../img/karam img.svg';
 import sabziimg from '../img/sabzi img.png';
 import { useTranslation } from 'react-i18next';
+
 const Main = () => {
-  const {t, i18n} = useTranslation()
+  const { t, i18n } = useTranslation();
   return (
     <div className='main'>
       <div className="mainone">
@@ -39,7 +41,6 @@ const Main = () => {
           <span>$12.00</span>
         </div>
       </div>
-      
     </div>
   );
 }

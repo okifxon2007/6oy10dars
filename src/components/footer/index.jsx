@@ -1,13 +1,15 @@
-import React from 'react'
-import '../footer/footer.css'
-import imgmilk from '../img/Dairy.svg'
-import imgveget from '../img/fruits.png'
-import condi from '../img/Condiments.svg'
-import honey from '../img/honey.svg'
-import flour from '../img/flour.svg'
-import { useTranslation } from 'react-i18next'
+
+import React from 'react';
+import '../footer/footer.css';
+import imgmilk from '../img/Dairy.svg';
+import imgveget from '../img/fruits.png';
+import condi from '../img/Condiments.svg';
+import honey from '../img/honey.svg';
+import flour from '../img/flour.svg';
+import { useTranslation } from 'react-i18next';
+
 const Footer = () => {
-  const {t, i18n} = useTranslation()
+  const { t, i18n } = useTranslation();
   return (
     <div className='fifecard'>
       <div className="caard">
@@ -39,4 +41,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default Footer;
